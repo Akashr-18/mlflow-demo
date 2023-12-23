@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/OneDrive/Desktop/Projectts/MLFLOW_winequality/mlflow-demo/mlruns/0/e6b6789e86bc43ce90f368ed97174cb2/artifacts
+end_time: 1703299404480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6b6789e86bc43ce90f368ed97174cb2
+run_name: receptive-bird-311
+run_uuid: e6b6789e86bc43ce90f368ed97174cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703299400959
+status: 3
+tags: []
+user_id: Akash R

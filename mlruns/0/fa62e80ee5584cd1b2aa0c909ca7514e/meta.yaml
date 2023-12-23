@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/OneDrive/Desktop/Projectts/MLFLOW_winequality/mlflow-demo/mlruns/0/fa62e80ee5584cd1b2aa0c909ca7514e/artifacts
+end_time: 1703299421599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa62e80ee5584cd1b2aa0c909ca7514e
+run_name: loud-squirrel-917
+run_uuid: fa62e80ee5584cd1b2aa0c909ca7514e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703299417843
+status: 3
+tags: []
+user_id: Akash R

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/OneDrive/Desktop/Projectts/MLFLOW_winequality/mlflow-demo/mlruns/0/17f37017fde94f52b6048261cfaae5d9/artifacts
+end_time: 1703299387326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17f37017fde94f52b6048261cfaae5d9
+run_name: painted-shrike-722
+run_uuid: 17f37017fde94f52b6048261cfaae5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703299383658
+status: 3
+tags: []
+user_id: Akash R
